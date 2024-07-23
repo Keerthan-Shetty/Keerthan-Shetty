@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development to play and create the designs.
 - 🌱 I’m currently learning Full-stack development.
 - 💞️ I’m looking to collaborate with reputated IT sector to develop and upskill my skills.
-- You can reach me through <br/> <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>keerthanshetty868@gmail.com, phoneno : +91 8680960260
+- You can reach me through <br/> [<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](keerthanshetty868@gmail.com), phoneno : +91 8680960260
 
 - Skill
    
