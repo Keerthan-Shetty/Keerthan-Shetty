@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full-stack development.
 - 💞️ I’m looking to collaborate with reputated IT sector to develop and upskill my skills.
 - You can reach me through
-<br/> [![Gmail](https://github.com/user-attachments/assets/93ca577d-48bd-47a0-89fa-3dd3a4e5a50f)](mailto:keerthanshetty868@gmail.com) , phone.no +91-8680960260.
+<br/> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanshetty868@gmail.com) , phone.no +91-8680960260.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthan-Shetty&bg_color=88c6ec&color=ffffff&line=292325&point=a31414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
