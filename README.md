@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ## Keerthan-Shetty
+- # 👋 Hi, I’m Keerthan-Shetty
 - 👀 I’m interested in Frontend Development to play and create the designs.
 - 🌱 I’m currently learning Full-stack development.
 - 💞️ I’m looking to collaborate with reputated IT sector to develop and upskill my skills.
